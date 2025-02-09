@@ -1,0 +1,8 @@
+# streamlit run app.py
+
+streamlit
+joblib
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
